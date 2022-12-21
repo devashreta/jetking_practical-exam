@@ -1,0 +1,11 @@
+) How to create your own Cryptocurrency token on Binance
+Blockchain?
+2) How to mint your created Cryptocurrency token on Binance
+Blockchain?
+
+answer 1. to create own cryptocurrency token on Binance blockchain 
+ step 1:at first add binance network  blockchain
+ then add binance network
+    answer2. to create mint  cryptocurrency.
+step1. after making bnb facet 
+     then go to mint  afterthat  
